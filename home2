@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>David Lieberman - Faculty Website</title>
+    <style>
+        /* Add your CSS styling here */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>David Lieberman</h1>
+        <h2>Assistant Professor of Commutative Algebra</h2>
+        <h3>Department of Mathematics, University of Nebraska-Lincoln</h3>
+    </header>
+
+    <nav>
+        <!-- Add navigation links if needed -->
+    </nav>
+
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>I am a mathematician passionate about advancing our understanding of commutative algebra. My research focuses on [brief description of your research interests].</p>
+        </section>
+
+        <section>
+            <h2>Research Interests</h2>
+            <ul>
+                <li>Commutative Algebra</li>
+                <li>Algebraic Geometry</li>
+                <li>Homological Algebra</li>
+                <!-- Add more specific research interests -->
+            </ul>
+        </section>
+
+        <section>
+            <h2>Publications</h2>
+            <ul>
+                <li>[List some of your notable publications with links if available]</li>
+            </ul>
+        </section>
+
+        <!-- Add more sections for Teaching, Graduate Students, Contact Information, News & Updates, Professional Affiliations, Resources, etc. -->
+    </main>
+
+    <footer>
+        <p>Contact: david.lieberman@unl.edu | Office: [Office location] | Phone: [Phone number]</p>
+    </footer>
+</body>
+</html>
